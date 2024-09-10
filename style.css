@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(143, 112, 98);
+}
+
+div {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid #8d2020;
+    padding: 30px 60px 80px 60px;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: 'stencil';
+    text-decoration: overline;
+    text-align: center;
+    
+}
+
+h2 {
+    font-family: 'stencil';
+    font-size: 24px;
+    font-weight: normal;
+    
+
+}
+
+p {
+    font-weight: bolder;
+    font-family: 'stencil';
+    color: brown;
+}
+
+a {
+    font-family: 'stencil';
+    color: rgba(255, 4, 4, 0.834);
+    border: 2px solid;
+    border-radius: 0%;
+    text-decoration: none;
+    
+}
+img{
+    width: 500px;
+    height: 375px;
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+     
+}
